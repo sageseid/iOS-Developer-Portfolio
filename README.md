@@ -93,6 +93,22 @@ The Currency Calculator App is a simple IOS application client designed to provi
 
 
 
+## TizetiPOS
+[`📲 unavailable `]
+
+Tizeti POS is an android application only avalaible on point-of-sale devices. It helps Tizeti create and accept payments from new users via the POS
+
+<p align="center">
+
+<img width="300"  src="https://user-images.githubusercontent.com/20171941/141124044-451c1fc0-5ee2-4a26-97bc-9b42675fc4fa.png">
+ </p>
+ 
+**Tech Used**
+- 🪁 Kotlin
+- 💽 RetroFit
+
+
+
 ## BTC-USD
 [`📲 Available on Open Source`](https://github.com/sageseid/BTC-USD)
 
@@ -112,6 +128,24 @@ BTC-USD is an IOS application designed to provide real-time conversion rates bet
 - 🗿 UI Kit
 - 🔔 Alarmofire
 - 💨 Swift
+
+
+
+## Dynamic Forms IOS
+[`📲 Available on Open Source`](https://github.com/sageseid/Dynamic_Forms_IOS)
+
+Tizeti POS is an android application only avalaible on point-of-sale devices. It helps Tizeti create and accept payments from new users via the POS
+
+<p align="center">
+
+<img width="300"  src="https://user-images.githubusercontent.com/20171941/141124044-451c1fc0-5ee2-4a26-97bc-9b42675fc4fa.png">
+ </p>
+ 
+**Tech Used**
+- 💨 Swift
+
+  
+
 
 ## Flicks
 [`📲 Available on Open Source`](https://github.com/sageseid/Flicks])
