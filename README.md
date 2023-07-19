@@ -52,7 +52,27 @@ MoneyBag is a comprehensive personal finance management app designed by a Fin te
 - 🗿 UI Kit
 - 🔔 Alarmofire
 - 💨 Swift
+
    
+
+## Image-VideoFilter
+[`📲 Available on Open Source`]([https://github.com/sageseid/BTC-USD](https://github.com/sageseid/Image-VideoFilter))
+
+Image-Video Filter is an IOS application designed to process image and video data, provided either from the gallery or camera, accessing individual frames, and applying various filters to alter the appearance of the content.
+
+<p align="center">
+
+<img width="300"  src="https://user-images.githubusercontent.com/20171941/141124044-451c1fc0-5ee2-4a26-97bc-9b42675fc4fa.png">
+<img width="300"  src="https://user-images.githubusercontent.com/20171941/141124051-0e71c23b-cd08-40de-9897-98a4e1fd7640.png">
+ </p>
+ 
+**Tech Used**
+- 🗿 UI Kit
+- 📷 AVFoundatiom
+- 🌎 Url Session
+- 🌤️ Firebase
+- 💨 Swift
+
 
 ## BTC-USD
 [`📲 Available on Open Source`](https://github.com/sageseid/BTC-USD)
@@ -77,7 +97,7 @@ BTC-USD is an IOS application designed to provide real-time conversion rates bet
 ## Flicks
 [`📲 Available on Open Source`]([https://github.com/sageseid/BTC-USD](https://github.com/sageseid/Flicks))
 
-Flicks is a mobile or web application designed to provide users with comprehensive information and entertainment options related to movies. The aim wadto be a one-stop destination for movie enthusiasts, offering them access to movie details, trailers, ratings, and showtimes.The app is built using the MVVM + Combine architecture with offline support via coredata persistant storage. The app fetches movies and movie details from the TMDB database.
+Flicks is a mobile or web application designed to provide users with comprehensive information and entertainment options related to movies. The aim was to be a one-stop destination for movie enthusiasts, offering them access to movie details, trailers, ratings, and showtimes.The app is built using the MVVM + Combine architecture with offline support via coredata persistant storage. The app fetches movies and movie details from the TMDB database.
 
 <p align="center">
 
@@ -86,7 +106,9 @@ Flicks is a mobile or web application designed to provide users with comprehensi
  </p>
  
 **Tech Used**
-- 🌰 CocoaPods
-- 🐉 CoreData
-- ✈️ SwiftUI
-- 🗿 MVVM
+- 🛠 Combine
+- 🏗 CoreData
+-  SwiftUI
+- 🏛 MVVM
+- 💨 Swift
+
