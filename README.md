@@ -58,7 +58,7 @@ MoneyBag is a comprehensive personal finance management app designed by a Fin te
 [`📲 Available on the App Store`](https://apps.apple.com/us/app/backdrop-find-pretty-places/id1548895189)
 
 
-BackDrop is a mobile application that helps you find beautiful places near you or all over the world and the relevant information about them. I worked on providing an In-built Video Module within the app that gives users tit-tok like functionality.
+BackDrop is a mobile application that helps you find beautiful places near you or all over the world and the relevant information about them. I worked on providing an In-built Video Module within the IOS app that gives users tik-tok like functionality.
 <p align="center">
 <img width="200"  src="https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/2f5a19d6-da6b-413c-b484-98127696a36f">
 <img width="200"  src="https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/f6c28bd3-2b0b-43a8-9f4b-eef5135d694b">
@@ -70,6 +70,8 @@ BackDrop is a mobile application that helps you find beautiful places near you o
 **Tech Used**
 - 🌎 Url Session
 - 💨 Swift
+-  © Obj-C
+  
 
    
 
