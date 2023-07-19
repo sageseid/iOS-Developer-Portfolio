@@ -35,7 +35,7 @@ Wificall is a communication app that allows users to make voice calls using Wi-F
 [`📲 Available on the Play Store`](https://play.google.com/store/apps/details?id=com.nuturetech.moneybag&hl=en&gl=US)
 
 
-MoneyBag is a comprehensive personal finance management app designed by a Fin tech company i worked for, to help users take control of their finances and manage their money effectively. With an intuitive user interface and a range of powerful features, MoneyBag aims to provide users with insights into their spending, budgeting, savings, and investments.I have had the opportunity to contribute to a few Modules of this app. 
+MoneyBag is a comprehensive personal finance management app designed by a Fin tech company i worked for, to help users take control of their finances and manage their money effectively. With an intuitive user interface and a range of powerful features, MoneyBag aims to provide users with insights into their spending, budgeting, savings, and investments. I have had the opportunity to contribute to a few Modules of this app. 
 
 <p align="center">
 <img width="200"  src="https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/7872f9ba-74e4-4078-988d-dfd08dc8755b">
