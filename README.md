@@ -54,7 +54,7 @@ MoneyBag is a comprehensive personal finance management app designed by a Fin te
 - 💨 Swift
    
 
-## [BTC-USD]
+## BTC-USD
 [`📲 Available on Open Source`](https://github.com/sageseid/BTC-USD)
 
 
