@@ -54,22 +54,25 @@ MoneyBag is a comprehensive personal finance management app designed by a Fin te
 - 💨 Swift
    
 
-## [SafePeople](https://github.com/brittanyarima/SafePeople) 
-`📲 Available on the App Store`
-<br>Safe People was an idea my sister came up with and I had the honor of bringing to life. The purpose of the app is to help those struggling with addiction, anxiety, depression, etc.. reach out to their Safe People in times of need. When "triggered" the user can open the app and simply press the 'Safe Button'. This will prepare a pre-written customizable message that will be ready to send to their trusted people. The message and their trusted contacts will auto-populate in their iPhone's message app, and all they have to do is press "send".
+## [BTC-USD]
+[`📲 Available on Open Source`](https://github.com/sageseid/BTC-USD)
+
+
+BTC-USD is an IOS application designed to provide real-time conversion rates between Bitcoin (BTC) and United States Dollars (USD) using the Bitfinex API. The app aims to offer users a convenient tool to monitor the current exchange rate of Bitcoin to USD, which can be useful for investors, traders, or anyone interested in the cryptocurrency market.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/76922883/205219162-5ec13057-2fa1-46a4-a609-f434046c5ca1.png" width="200"/>
-<img src="https://user-images.githubusercontent.com/76922883/205219193-dad363b1-394f-4f57-9257-173f2fe1549f.png" width="200"/>
-<img src="https://user-images.githubusercontent.com/76922883/205219264-1e7e1406-f70e-4372-a69e-0c815bbea49a.png" width="200"/>
-<img src="https://user-images.githubusercontent.com/76922883/205219336-758788c0-77a8-4433-adb3-84da57a9ffee.png" width="200"/>
+
+<img width="300"  src="https://user-images.githubusercontent.com/20171941/141124044-451c1fc0-5ee2-4a26-97bc-9b42675fc4fa.png">
+<img width="300"  src="https://user-images.githubusercontent.com/20171941/141124051-0e71c23b-cd08-40de-9897-98a4e1fd7640.png">
  </p>
  
 **Tech Used**
-- 💿 Core Data
-- 🎨 SwiftUI
-- 🏦 App Storage
-- 📇 Contacts
+- 🌰 CocoaPods
+- 🐉 RxSwift
+- ✈️ Starscream
+- 🗿 UI Kit
+- 🔔 Alarmofire
+- 💨 Swift
 
 ## [Steps](https://github.com/brittanyarima/Steps)
 [`📲 Available on the App Store`](https://apps.apple.com/app/id1663569893)
