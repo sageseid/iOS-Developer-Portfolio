@@ -108,7 +108,7 @@ Flicks is a mobile or web application designed to provide users with comprehensi
 **Tech Used**
 - 🛠 Combine
 - 🏗 CoreData
--  SwiftUI
+- 🧑‍🎨 SwiftUI
 - 🏛 MVVM
 - 💨 Swift
 
