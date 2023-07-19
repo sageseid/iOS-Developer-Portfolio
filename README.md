@@ -3,6 +3,10 @@
 ### 👋 Hi! I'm a self-taught iOS & Android Developer. Here's a bit of what I've worked on.
 
 ## Wificall
+[`📲 Available on the App Store`](https://itunes.apple.com/us/app/wificall-ng/id1458874906?ls=1&mt=8)
+[`📲 Available on the Play Store`](https://play.google.com/store/apps/details?id=com.tizeti.wificall)
+
+
 Wificall is a communication app that allows users to make voice calls using Wi-Fi or a stable internet connection. The app aims to provide a cost-effective and reliable alternative to traditional cellular calls by utilizing Wi-Fi networks to transmit voice and video data.I built both the android and IOS app for a telecommunications company i work for. Wificall was built by integrating the SIP protocol into the app's communication infrastructure. SIP allows the app to initiate, modify, and terminate voice calls over IP networks and provides the necessary signaling and session control capabilities to set up communication channels between users.
 
 <p align="center">
