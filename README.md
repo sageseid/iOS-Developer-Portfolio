@@ -73,7 +73,7 @@ Image-Video Filter is an IOS application designed to process image and video dat
 - 💨 Swift
 
 ## CurrencyCalculator
-[`📲 Available on Open Source`]([https://github.com/sageseid/CurrencyCalculator])
+[`📲 Available on Open Source`](https://github.com/sageseid/CurrencyCalculator)
 
 
 The Currency Calculator App is a simple IOS application client designed to provide users with a convenient and efficient way to perform currency conversions on the go This app aims to cater to users who frequently deal with foreign currencies for travel, business, or personal purposes.
@@ -94,7 +94,7 @@ The Currency Calculator App is a simple IOS application client designed to provi
 
 
 ## BTC-USD
-[`📲 Available on Open Source`]([https://github.com/sageseid/BTC-USD])
+[`📲 Available on Open Source`](https://github.com/sageseid/BTC-USD)
 
 
 BTC-USD is an IOS application designed to provide real-time conversion rates between Bitcoin (BTC) and United States Dollars (USD) using the Bitfinex API. The app aims to offer users a convenient tool to monitor the current exchange rate of Bitcoin to USD, which can be useful for investors, traders, or anyone interested in the cryptocurrency market.
@@ -114,7 +114,7 @@ BTC-USD is an IOS application designed to provide real-time conversion rates bet
 - 💨 Swift
 
 ## Flicks
-[`📲 Available on Open Source`]([https://github.com/sageseid/Flicks)])
+[`📲 Available on Open Source`](https://github.com/sageseid/Flicks])
 
 Flicks is a mobile or web application designed to provide users with comprehensive information and entertainment options related to movies. The aim was to be a one-stop destination for movie enthusiasts, offering them access to movie details, trailers, ratings, and showtimes.The app is built using the MVVM + Combine architecture with offline support via coredata persistant storage. The app fetches movies and movie details from the TMDB database.
 
