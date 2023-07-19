@@ -22,29 +22,35 @@ Wificall is a communication app that allows users to make voice calls using Wi-F
 **Tech Used**
 - 🗿 UI Kit
 - 🔔 Alarmofire
+- 💨 Swift
 - 📞 Call Kit
 - 🌰 CocoaPods
+- ☕️ Java
+- 💽 RetroFit
+- 📞 Android Telephony
    
 
-## Creator View
-Creator View is an app developed by Sean Allen that helps YouTubers get a bigger picture of their business. 
-<br>I have had the opportunity to contribute to a few areas of this app. Check it out below!
+## MoneyBag
+[`📲 Available on the App Store`](https://apps.apple.com/ng/app/moneybagng/id1440773329)
+[`📲 Available on the Play Store`](https://play.google.com/store/apps/details?id=com.nuturetech.moneybag&hl=en&gl=US)
+MoneyBag is a comprehensive personal finance management app designed by a Fin tech company i worked for, to help users take control of their finances and manage their money effectively. With an intuitive user interface and a range of powerful features, MoneyBag aims to provide users with insights into their spending, budgeting, savings, and investments.I have had the opportunity to contribute to a few Modules of this app. 
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/76922883/205193319-5f8c7225-9f77-4baa-89e0-2ceab8b6be13.png" width="200"/>
-<img src="https://user-images.githubusercontent.com/76922883/205193358-5708bcd4-84ff-4f94-b48d-5f7ed55456de.png" width="200"/>
+<img width="200"  src="https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/7872f9ba-74e4-4078-988d-dfd08dc8755b">
+<img width="200"  src="https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/f1de33bb-96e7-42e9-94b7-58f228d14856">
+<img width="200"  src="https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/7c5bfef6-f589-4b0c-b273-84ac0d2b5324">
  </p>
 
-**My Contributions**
-- 🎨 Update Settings UI
-- ⭐️ Add Ratings prompt
-- ⚙️ Preference Screen for mac
-- ❇️ Widget
+
 
 **Tech Used**
-- 💿 Core Data
-- 🎨 SwiftUI
-- 🔲 WidgetKit
+- 🌰 CocoaPods
+- ☕️ Java
+- 💽 RetroFit
+- 🗿 UI Kit
+- 🔔 Alarmofire
+- 💨 Swift
+   
 
 ## [SafePeople](https://github.com/brittanyarima/SafePeople) 
 `📲 Available on the App Store`
