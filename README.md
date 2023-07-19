@@ -16,11 +16,11 @@ Wificall is a communication app that allows users to make voice calls using Wi-F
 
 
 **Tech Used**
-- 💿 Core Data
-- 🎨 SwiftUI
-- 🏦 App Storage
-- 📦 Swift Package Manager
- - 🚘 Roadmap
+- 🗿 UI Kit
+- 🔔 Alarmofire
+- 📞 Call Kit
+- 🌰 CocoaPods
+   
 
 ## Creator View
 Creator View is an app developed by Sean Allen that helps YouTubers get a bigger picture of their business. 
