@@ -63,7 +63,6 @@ Image-Video Filter is an IOS application designed to process image and video dat
 <p align="center">
 
 <img width="300"  src="https://user-images.githubusercontent.com/20171941/141124044-451c1fc0-5ee2-4a26-97bc-9b42675fc4fa.png">
-<img width="300"  src="https://user-images.githubusercontent.com/20171941/141124051-0e71c23b-cd08-40de-9897-98a4e1fd7640.png">
  </p>
  
 **Tech Used**
@@ -77,19 +76,18 @@ Image-Video Filter is an IOS application designed to process image and video dat
 [`📲 Available on Open Source`]([https://github.com/sageseid/CurrencyCalculator])
 
 
-Image-Video Filter is an IOS application designed to process image and video data, provided either from the gallery or camera, accessing individual frames, and applying various filters to alter the appearance of the content.
+The Currency Calculator App is a simple IOS application client designed to provide users with a convenient and efficient way to perform currency conversions on the go This app aims to cater to users who frequently deal with foreign currencies for travel, business, or personal purposes.
 
 <p align="center">
 
 <img width="300"  src="https://user-images.githubusercontent.com/20171941/141124044-451c1fc0-5ee2-4a26-97bc-9b42675fc4fa.png">
-<img width="300"  src="https://user-images.githubusercontent.com/20171941/141124051-0e71c23b-cd08-40de-9897-98a4e1fd7640.png">
  </p>
  
 **Tech Used**
 - 🗿 UI Kit
-- 📷 AVFoundatiom
-- 🌎 Url Session
-- 🌤️ Firebase
+- 🔔 Alarmofire
+- 💽 Realm
+- 📊 Charts
 - 💨 Swift
 
 
@@ -123,12 +121,11 @@ Flicks is a mobile or web application designed to provide users with comprehensi
 <p align="center">
 
 <img width="300"  src="https://user-images.githubusercontent.com/20171941/141124044-451c1fc0-5ee2-4a26-97bc-9b42675fc4fa.png">
-<img width="300"  src="https://user-images.githubusercontent.com/20171941/141124051-0e71c23b-cd08-40de-9897-98a4e1fd7640.png">
  </p>
  
 **Tech Used**
 - 🛠 Combine
-- 💽  CoreData
+- 💽 CoreData
 - 🧑‍🎨 SwiftUI
 - 🏛 MVVM
 - 💨 Swift
