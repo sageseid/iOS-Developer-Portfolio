@@ -1,6 +1,6 @@
 # Noel obaseki     
 # Mobile-Developer-Portfolio     
-### 👋 Hi! I'm a self-taught iOS & Android Developer. Here's a bit of what I've worked on.
+### 👋 Hi! My Name is Noel Obaseki, I'm a self-taught iOS & Android Developer. Here's a bit of what I've worked on.
 
 ## Wificall
 [`📲 Available on the App Store`](https://itunes.apple.com/us/app/wificall-ng/id1458874906?ls=1&mt=8)
