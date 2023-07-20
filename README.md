@@ -2,57 +2,6 @@
 # Mobile-Developer-Portfolio     
 ### 👋 Hi! My Name is Noel Obaseki, I'm a self-taught iOS & Android Developer. Here's a bit of what I've worked on.
 
-## Wificall
-[`📲 Available on the App Store`](https://itunes.apple.com/us/app/wificall-ng/id1458874906?ls=1&mt=8)
-[`📲 Available on the Play Store`](https://play.google.com/store/apps/details?id=com.tizeti.wificall)
-
-
-Wificall is a communication app that allows users to make voice calls using Wi-Fi or a stable internet connection. The app aims to provide a cost-effective and reliable alternative to traditional cellular calls by utilizing Wi-Fi networks to transmit voice and video data.I built both the android and IOS app for a telecommunications company i work for. Wificall was built by integrating the SIP protocol into the app's communication infrastructure. SIP allows the app to initiate, modify, and terminate voice calls over IP networks and provides the necessary signaling and session control capabilities to set up communication channels between users.
-
-<p align="center">
-<img width="200" src="https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/c1767ff1-0a2f-4811-a421-a5793a463684">
-<img width="200" src="https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/db9a7904-9564-4e7a-8b43-306d8de61191">
-<img width="200" src="https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/862b9c5a-4811-4c04-ae8d-d3bd9c1b2a53">
-</p>
-
-
-
-
-
-**Tech Used**
-- 🗿 UI Kit
-- 🔔 Alarmofire
-- 💨 Swift
-- 📞 Call Kit
-- 🌰 CocoaPods
-- ☕️ Java
-- 💽 RetroFit
-- 📞 Android Telephony
-   
-
-## MoneyBag
-[`📲 Available on the App Store`](https://apps.apple.com/ng/app/moneybagng/id1440773329)
-[`📲 Available on the Play Store`](https://play.google.com/store/apps/details?id=com.nuturetech.moneybag&hl=en&gl=US)
-
-
-MoneyBag is a comprehensive personal finance management app designed by a Fin tech company i worked for, to help users take control of their finances and manage their money effectively. With an intuitive user interface and a range of powerful features, MoneyBag aims to provide users with insights into their spending, budgeting, savings, and investments. I have had the opportunity to contribute to a few Modules of this app. 
-
-<p align="center">
-<img width="200"  src="https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/7872f9ba-74e4-4078-988d-dfd08dc8755b">
-<img width="200"  src="https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/f1de33bb-96e7-42e9-94b7-58f228d14856">
-<img width="200"  src="https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/7c5bfef6-f589-4b0c-b273-84ac0d2b5324">
- </p>
-
-
-
-**Tech Used**
-- 🌰 CocoaPods
-- ☕️ Java
-- 💽 RetroFit
-- 🗿 UI Kit
-- 🔔 Alarmofire
-- 💨 Swift
-
 
 ## BackDrop
 [`📲 Available on the App Store`](https://apps.apple.com/us/app/backdrop-find-pretty-places/id1548895189)
@@ -110,7 +59,33 @@ The Currency Calculator App is a simple IOS application client designed to provi
 - 📊 Charts
 - 💨 Swift
 
+## Wificall
+[`📲 Available on the App Store`](https://itunes.apple.com/us/app/wificall-ng/id1458874906?ls=1&mt=8)
+[`📲 Available on the Play Store`](https://play.google.com/store/apps/details?id=com.tizeti.wificall)
 
+
+Wificall is a communication app that allows users to make voice calls using Wi-Fi or a stable internet connection. The app aims to provide a cost-effective and reliable alternative to traditional cellular calls by utilizing Wi-Fi networks to transmit voice and video data.I built both the android and IOS app for a telecommunications company i work for. Wificall was built by integrating the SIP protocol into the app's communication infrastructure. SIP allows the app to initiate, modify, and terminate voice calls over IP networks and provides the necessary signaling and session control capabilities to set up communication channels between users.
+
+<p align="center">
+<img width="200" src="https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/c1767ff1-0a2f-4811-a421-a5793a463684">
+<img width="200" src="https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/db9a7904-9564-4e7a-8b43-306d8de61191">
+<img width="200" src="https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/862b9c5a-4811-4c04-ae8d-d3bd9c1b2a53">
+</p>
+
+
+
+
+
+**Tech Used**
+- 🗿 UI Kit
+- 🔔 Alarmofire
+- 💨 Swift
+- 📞 Call Kit
+- 🌰 CocoaPods
+- ☕️ Java
+- 💽 RetroFit
+- 📞 Android Telephony
+   
 
 
 ## TizetiPOS
@@ -166,6 +141,30 @@ Dynamic Forms is a Native iOS App that serves as a dynamic form builder, enablin
 
   
 
+
+## MoneyBag
+[`📲 Available on the App Store`](https://apps.apple.com/ng/app/moneybagng/id1440773329)
+[`📲 Available on the Play Store`](https://play.google.com/store/apps/details?id=com.nuturetech.moneybag&hl=en&gl=US)
+
+
+MoneyBag is a comprehensive personal finance management app designed by a Fin tech company i worked for, to help users take control of their finances and manage their money effectively. With an intuitive user interface and a range of powerful features, MoneyBag aims to provide users with insights into their spending, budgeting, savings, and investments. I have had the opportunity to contribute to a few Modules of this app. 
+
+<p align="center">
+<img width="200"  src="https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/7872f9ba-74e4-4078-988d-dfd08dc8755b">
+<img width="200"  src="https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/f1de33bb-96e7-42e9-94b7-58f228d14856">
+<img width="200"  src="https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/7c5bfef6-f589-4b0c-b273-84ac0d2b5324">
+ </p>
+
+
+
+**Tech Used**
+- 🌰 CocoaPods
+- ☕️ Java
+- 💽 RetroFit
+- 🗿 UI Kit
+- 🔔 Alarmofire
+- 💨 Swift
+  
 
 ## Flicks
 [`📲 Available on Open Source`](https://github.com/sageseid/Flicks)
