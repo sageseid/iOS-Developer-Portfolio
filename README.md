@@ -168,7 +168,7 @@ Dynamic Forms is a Native iOS App that serves as a dynamic form builder, enablin
 
 
 ## Flicks
-[`📲 Available on Open Source`](https://github.com/sageseid/Flicks])
+[`📲 Available on Open Source`](https://github.com/sageseid/Flicks)
 
 Flicks is a mobile or web application designed to provide users with comprehensive information and entertainment options related to movies. The aim was to be a one-stop destination for movie enthusiasts, offering them access to movie details, trailers, ratings, and showtimes.The app is built using the MVVM + Combine architecture with offline support via coredata persistant storage. The app fetches movies and movie details from the TMDB database.
 
@@ -183,4 +183,22 @@ Flicks is a mobile or web application designed to provide users with comprehensi
 - 🧑‍🎨 SwiftUI
 - 🏛 MVVM
 - 💨 Swift
+
+## Photo Lessons
+[`📲 Available on Open Source`](https://github.com/sageseid/PhotoLessons)
+
+Flicks is a mobile or web application designed to provide users with comprehensive information and entertainment options related to movies. The aim was to be a one-stop destination for movie enthusiasts, offering them access to movie details, trailers, ratings, and showtimes.The app is built using the MVVM + Combine architecture with offline support via coredata persistant storage. The app fetches movies and movie details from the TMDB database.
+
+<p align="center">
+
+<img width="300"  src="https://user-images.githubusercontent.com/20171941/141124044-451c1fc0-5ee2-4a26-97bc-9b42675fc4fa.png">
+ </p>
+ 
+**Tech Used**
+- 🛠 Combine
+- 💽 CoreData
+- 🧑‍🎨 SwiftUI
+- 🏛 MVVM
+- 💨 Swift
+
 
