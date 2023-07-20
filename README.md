@@ -193,7 +193,7 @@ Photo lessons is a user-friendly IOS application that allows users to access and
 
 <img width="300"  src="https://user-images.githubusercontent.com/20171941/141124044-451c1fc0-5ee2-4a26-97bc-9b42675fc4fa.png">
  </p>
- 
+
 **Tech Used**
 - 🛠 Combine
 - 💽 CoreData
