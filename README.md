@@ -187,7 +187,7 @@ Flicks is a mobile or web application designed to provide users with comprehensi
 ## Photo Lessons
 [`📲 Available on Open Source`](https://github.com/sageseid/PhotoLessons)
 
-Flicks is a mobile or web application designed to provide users with comprehensive information and entertainment options related to movies. The aim was to be a one-stop destination for movie enthusiasts, offering them access to movie details, trailers, ratings, and showtimes.The app is built using the MVVM + Combine architecture with offline support via coredata persistant storage. The app fetches movies and movie details from the TMDB database.
+Photo lessons is a user-friendly IOS application that allows users to access and watch lessons from a list. The app offers seamless functionality, both online and offline, ensuring uninterrupted learning experiences.In order to enable offline viewing, data caching and downloading mechanisms were implemented, guaranteeing seamless lesson access regardless of internet availability. The Lessons list screen is built using SwiftUI, and the Lesson details screen is implemented programmatically using UIKit.
 
 <p align="center">
 
@@ -197,6 +197,7 @@ Flicks is a mobile or web application designed to provide users with comprehensi
 **Tech Used**
 - 🛠 Combine
 - 💽 CoreData
+- 🗿 UI Kit
 - 🧑‍🎨 SwiftUI
 - 🏛 MVVM
 - 💨 Swift
