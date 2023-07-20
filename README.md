@@ -207,8 +207,8 @@ Flicks is a mobile or web application designed to provide users with comprehensi
 Photo lessons is a user-friendly IOS application that allows users to access and watch lessons from a list. The app offers seamless functionality, both online and offline, ensuring uninterrupted learning experiences.In order to enable offline viewing, data caching and downloading mechanisms were implemented, guaranteeing seamless lesson access regardless of internet availability. The Lessons list screen is built using SwiftUI, and the Lesson details screen is implemented programmatically using UIKit.
 
 <p align="center">
-<img width="240" src="https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/d2e5f356-8ac9-4629-b3d1-38b5417a3b11">
-<img width="238" src="https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/96c1be5d-36b3-416c-ba58-e3df32c96c25">
+<img width="200" src="https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/d2e5f356-8ac9-4629-b3d1-38b5417a3b11">
+<img width="200" src="https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/96c1be5d-36b3-416c-ba58-e3df32c96c25">
  </p>
 
 
