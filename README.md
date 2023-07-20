@@ -154,7 +154,7 @@ BTC-USD is an IOS application designed to provide real-time conversion rates bet
 ## Dynamic Forms IOS
 [`📲 Available on Open Source`](https://github.com/sageseid/Dynamic_Forms_IOS)
 
-Tizeti POS is an android application only avalaible on point-of-sale devices. It helps Tizeti create and accept payments from new users via the POS
+Dynamic Forms is a Native iOS App that serves as a dynamic form builder, enabling users to create and submit forms based on JSON data. The main objective of the project was to provide a user-friendly interface to generate custom forms with different form elements, such as embedded photos, text fields, and yes/no options. The app was built from scratch, without relying on any form builder library, ensuring a unique and customized solution. Key Features include Dynamic Form Generation, Multi-Page Layout, Form Validation & Rule-based Display 
 
 <p align="center">
 
