@@ -16,6 +16,7 @@ BackDrop is a mobile application that helps you find beautiful places near you o
 
 
 
+
 **Tech Used**
 - 🌎 Url Session
 - 💨 Swift
@@ -193,7 +194,7 @@ Flicks is a mobile or web application designed to provide users with comprehensi
 
 <p align="center">
 
-<img width="300"  src="https://user-images.githubusercontent.com/20171941/141124044-451c1fc0-5ee2-4a26-97bc-9b42675fc4fa.png">
+<img width="200"  src="https://user-images.githubusercontent.com/20171941/141124044-451c1fc0-5ee2-4a26-97bc-9b42675fc4fa.png">
  </p>
  
 **Tech Used**
