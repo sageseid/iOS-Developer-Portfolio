@@ -31,6 +31,8 @@ BackDrop is a mobile application that helps you find beautiful places near you o
 Image-Video Filter is an IOS application designed to process image and video data, provided either from the gallery or camera, accessing individual frames, and applying various filters to alter the appearance of the content.
 
 <p align="center">
+![Simulator Screen Shot - iPhone 14 Pro - 2023-07-23 at 21 44 36](https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/7d036dd5-23b9-4a94-8610-ccdc574e5528)
+![Simulator Screen Shot - iPhone 14 Pro - 2023-07-23 at 21 44 51](https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/5d837691-be6d-402b-afaf-bf730b5977c2)
 
 <img width="300"  src="https://user-images.githubusercontent.com/20171941/141124044-451c1fc0-5ee2-4a26-97bc-9b42675fc4fa.png">
  </p>
