@@ -58,10 +58,6 @@ Image-Video Filter is an IOS application designed to process image and video dat
 
 The Currency Calculator App is a simple IOS application client designed to provide users with a convenient and efficient way to perform currency conversions on the go This app aims to cater to users who frequently deal with foreign currencies for travel, business, or personal purposes.
 
-<p align="center">
-
-<img width="300"  src="https://user-images.githubusercontent.com/20171941/141124044-451c1fc0-5ee2-4a26-97bc-9b42675fc4fa.png">
- </p>
  
 **Tech Used**
 - 🗿 UI Kit
@@ -140,10 +136,6 @@ BTC-USD is an IOS application designed to provide real-time conversion rates bet
 
 Dynamic Forms is a Native iOS App that serves as a dynamic form builder, enabling users to create and submit forms based on JSON data. The main objective of the project was to provide a user-friendly interface to generate custom forms with different form elements, such as embedded photos, text fields, and yes/no options. The app was built from scratch, without relying on any form builder library, ensuring a unique and customized solution. Key Features include Dynamic Form Generation, Multi-Page Layout, Form Validation & Rule-based Display 
 
-<p align="center">
-
-<img width="300"  src="https://user-images.githubusercontent.com/20171941/141124044-451c1fc0-5ee2-4a26-97bc-9b42675fc4fa.png">
- </p>
  
 **Tech Used**
 - 💨 Swift
