@@ -70,23 +70,6 @@ The Currency Calculator App is a simple IOS application client designed to provi
 - 📊 Charts
 - 💨 Swift
 
-## PitchPlan
-[`📲 unavailable `]
-
-
-Pitch Plan is an IOS Software Development Kit (SDK) that empowers app developers to effortlessly integrate custom soccer/football formations views into their applications. This innovative SDK offers a comprehensive set of tools and components, enabling users to create, customize, and visualize soccer formations with ease.
-
-<p align="center">
-
-<img width="300"  src="https://user-images.githubusercontent.com/20171941/141124044-451c1fc0-5ee2-4a26-97bc-9b42675fc4fa.png">
- </p>
- 
-**Tech Used**
-- 🛠 Combine
-- 🧑‍🎨 SwiftUI
-- 🏛 MVVM
-- 💨 Swift
-
 
 
 
