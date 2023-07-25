@@ -68,7 +68,6 @@ The Currency Calculator App is a simple IOS application client designed to provi
 
 
 
-
 ## Wificall
 [`📲 Available on the App Store`](https://itunes.apple.com/us/app/wificall-ng/id1458874906?ls=1&mt=8)
 [`📲 Available on the Play Store`](https://play.google.com/store/apps/details?id=com.tizeti.wificall)
