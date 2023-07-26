@@ -16,7 +16,6 @@ BackDrop is a mobile application that helps you find beautiful places near you o
 
 
 
-
 **Tech Used**
 - 🌎 Url Session
 - 💨 Swift
