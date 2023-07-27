@@ -26,8 +26,6 @@ BackDrop is a mobile application that helps you find beautiful places near you o
 
 
 
-
-
 ## Image-VideoFilter
 [`📲 Available on Open Source`](https://github.com/sageseid/Image-VideoFilter)
 
