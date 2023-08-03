@@ -21,7 +21,7 @@ BackDrop is a mobile application that helps you find beautiful places near you o
 - 💨 Swift
 -  © Obj-C
   
-## PitchPlan
+## PitchFormation
 [`📲 Available on Open Source`](https://github.com/sageseid/PitchFormation)
 [`📲 Integration Example`](https://github.com/sageseid/PitchFormation)
 
