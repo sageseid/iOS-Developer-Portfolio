@@ -163,8 +163,9 @@ Dynamic Forms is a Native iOS App that serves as a dynamic form builder, enablin
 Photo lessons is a user-friendly IOS application that allows users to access and watch lessons from a list. The app offers seamless functionality, both online and offline, ensuring uninterrupted learning experiences.In order to enable offline viewing, data caching and downloading mechanisms were implemented, guaranteeing seamless lesson access regardless of internet availability. The Lessons list screen is built using SwiftUI, and the Lesson details screen is implemented programmatically using UIKit.
 
 <p align="center">
-<img width="200" src="https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/d2e5f356-8ac9-4629-b3d1-38b5417a3b11">
-<img width="200" src="https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/96c1be5d-36b3-416c-ba58-e3df32c96c25">
+<img width="200" alt="254869995-d2e5f356-8ac9-4629-b3d1-38b5417a3b11" src="https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/c7fac236-8423-4888-9011-2f0b62336d04">
+<img width="200" alt="254869985-96c1be5d-36b3-416c-ba58-e3df32c96c25" src="https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/f3168973-ebb2-4d37-bb49-7dddf3a7fd77">
+
  </p>
 
 
@@ -185,9 +186,9 @@ Photo lessons is a user-friendly IOS application that allows users to access and
 MoneyBag is a comprehensive personal finance management app designed by a Fin tech company i worked for, to help users take control of their finances and manage their money effectively. With an intuitive user interface and a range of powerful features, MoneyBag aims to provide users with insights into their spending, budgeting, savings, and investments. I have had the opportunity to contribute to a few Modules of this app. 
 
 <p align="center">
-<img width="200"  src="https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/7872f9ba-74e4-4078-988d-dfd08dc8755b">
-<img width="200"  src="https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/f1de33bb-96e7-42e9-94b7-58f228d14856">
-<img width="200"  src="https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/7c5bfef6-f589-4b0c-b273-84ac0d2b5324">
+<img width="200" alt="254566279-f1de33bb-96e7-42e9-94b7-58f228d14856" src="https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/eb0acd76-667d-4573-a085-f650af5aca47">
+<img width="200" alt="254566293-7c5bfef6-f589-4b0c-b273-84ac0d2b5324" src="https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/8fd632b9-0ee2-4bed-bd5d-c691f492654a">
+ <img width="200" alt="254566260-7872f9ba-74e4-4078-988d-dfd08dc8755b" src="https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/656c621a-1ed4-4f29-9ced-3305e8e1ffd2">
  </p>
 
 
@@ -207,8 +208,9 @@ MoneyBag is a comprehensive personal finance management app designed by a Fin te
 Flicks is a mobile or web application designed to provide users with comprehensive information and entertainment options related to movies. The aim was to be a one-stop destination for movie enthusiasts, offering them access to movie details, trailers, ratings, and showtimes.The app is built using the MVVM + Combine architecture with offline support via coredata persistant storage. The app fetches movies and movie details from the TMDB database.
 
 <p align="center">
-<img width="200"  src="https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/a65ff048-555b-4cc6-bace-dcb703f48982">
-<img width="200" src="https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/99556095-34e7-4185-aafd-363082a580f6">
+<img width="200" alt="255395529-99556095-34e7-4185-aafd-363082a580f6" src="https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/4a636fe9-b367-498a-9e0
+ <img width="200" alt="255395534-a65ff048-555b-4cc6-bace-dcb703f48982" src="https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/c96f5d56-eb42-48d9-a945-a63adc8c2fa4">
+a-bf15d7133d14">
  </p>
  
 **Tech Used**
