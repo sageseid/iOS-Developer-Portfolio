@@ -11,9 +11,10 @@ BackDrop is a mobile application that helps you find beautiful places near you o
 
 
 <p align="center">
-<img width="200"  src="https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/2f5a19d6-da6b-413c-b484-98127696a36f">
-<img width="200"  src="https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/f6c28bd3-2b0b-43a8-9f4b-eef5135d694b">
-<img width="200"  src="https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/676cad1c-dd1d-449b-bf5c-04c5bf1f0504">
+<img width="200" alt="254634342-2f5a19d6-da6b-413c-b484-98127696a36f" src="https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/96f7d396-03c8-4158-944c-194543e744af">
+<img width="200" alt="254634347-676cad1c-dd1d-449b-bf5c-04c5bf1f0504" src="https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/89055579-f787-4569-98f9-939dbc8a8135">
+<img width="200" alt="254634360-f6c28bd3-2b0b-43a8-9f4b-eef5135d694b" src="https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/4acf689a-4c56-42ce-9138-93c6f9b9f8c1">
+
  </p>
 
 
