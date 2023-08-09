@@ -33,7 +33,8 @@ BackDrop is a mobile application that helps you find beautiful places near you o
 Pitch Plan is an IOS Software Development Kit (SDK) that empowers app developers to effortlessly integrate custom soccer/football formations views into their applications. This innovative SDK offers a comprehensive set of tools and components, enabling users to create, customize, and visualize soccer formations with ease.
 
 <p align="center">
- <img width="300" src="https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/d4afdaba-8eb2-4463-9f99-0900fffe741b">
+ <img width="300" alt="258842331-d4afdaba-8eb2-4463-9f99-0900fffe741b" src="https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/1add92eb-17cc-4e9a-8309-ad0b75d21cb4">
+
  </p>
  
 **Tech Used**
