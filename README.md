@@ -57,9 +57,12 @@ Image-Video Filter is an IOS application designed to process image and video dat
 <img width="200" alt="254634342-2f5a19d6-da6b-413c-b484-98127696a36f" src="https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/6e0a0c01-917f-4099-ad5e-781131d7923a">
 ![255430599-7d036dd5-23b9-4a94-8610-ccdc574e5528]()
 
-[Demo Video]([https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/6fe174c7-ca5b-4ab4-9468-91e3de7b00ea](https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/d2591498-37a8-4cc3-99de-04e2e5d7b9e8))
-
+[Demo Video]([https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/2fdc1174-ef52-4823-bd4c-226ab213612f])
  </p>
+
+
+
+
  
 **Tech Used**
 - 🗿 UI Kit
