@@ -92,9 +92,10 @@ The Currency Calculator App is a simple IOS application client designed to provi
 Wificall is a communication app that allows users to make voice calls using Wi-Fi or a stable internet connection. The app aims to provide a cost-effective and reliable alternative to traditional cellular calls by utilizing Wi-Fi networks to transmit voice and video data.I built both the android and IOS app for a telecommunications company i work for. Wificall was built by integrating the SIP protocol into the app's communication infrastructure. SIP allows the app to initiate, modify, and terminate voice calls over IP networks and provides the necessary signaling and session control capabilities to set up communication channels between users.
 
 <p align="center">
-<img width="200" src="https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/c1767ff1-0a2f-4811-a421-a5793a463684">
-<img width="200" src="https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/db9a7904-9564-4e7a-8b43-306d8de61191">
-<img width="200" src="https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/862b9c5a-4811-4c04-ae8d-d3bd9c1b2a53">
+<img width="200" alt="254558266-c1767ff1-0a2f-4811-a421-a5793a463684" src="https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/9d51a887-4452-4f13-83ea-86e4d5b4e71b">
+<img width="200" alt="254558281-862b9c5a-4811-4c04-ae8d-d3bd9c1b2a53" src="https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/26c34040-275f-4552-8f9d-e39773c23996">
+<img width="200" alt="254558302-db9a7904-9564-4e7a-8b43-306d8de61191" src="https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/83d1fc93-8b47-4a98-84f7-3a984a066245">
+
 </p>
 
 
