@@ -8,6 +8,8 @@
 
 
 BackDrop is a mobile application that helps you find beautiful places near you or all over the world and the relevant information about them. I worked on providing an In-built Video Module within the IOS app that gives users tik-tok like functionality.
+
+
 <p align="center">
 <img width="200"  src="https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/2f5a19d6-da6b-413c-b484-98127696a36f">
 <img width="200"  src="https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/f6c28bd3-2b0b-43a8-9f4b-eef5135d694b">
@@ -21,6 +23,8 @@ BackDrop is a mobile application that helps you find beautiful places near you o
 - 💨 Swift
 -  © Obj-C
   
+
+
 ## PitchFormation
 [`📲 Available on Open Source`](https://github.com/sageseid/PitchFormation)
 [`📲 Integration Example`](https://github.com/sageseid/PitchFormationDemo)
@@ -28,7 +32,7 @@ BackDrop is a mobile application that helps you find beautiful places near you o
 Pitch Plan is an IOS Software Development Kit (SDK) that empowers app developers to effortlessly integrate custom soccer/football formations views into their applications. This innovative SDK offers a comprehensive set of tools and components, enabling users to create, customize, and visualize soccer formations with ease.
 
 <p align="center">
- <img width="300" alt="Screenshot 2023-08-07 at 15 59 27" src="https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/d4afdaba-8eb2-4463-9f99-0900fffe741b">
+ <img width="300" src="https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/d4afdaba-8eb2-4463-9f99-0900fffe741b">
  </p>
  
 **Tech Used**
