@@ -208,10 +208,10 @@ MoneyBag is a comprehensive personal finance management app designed by a Fin te
 Flicks is a mobile or web application designed to provide users with comprehensive information and entertainment options related to movies. The aim was to be a one-stop destination for movie enthusiasts, offering them access to movie details, trailers, ratings, and showtimes.The app is built using the MVVM + Combine architecture with offline support via coredata persistant storage. The app fetches movies and movie details from the TMDB database.
 
 <p align="center">
-<img width="200" alt="255395529-99556095-34e7-4185-aafd-363082a580f6" src="https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/4a636fe9-b367-498a-9e0
- <img width="200" alt="255395534-a65ff048-555b-4cc6-bace-dcb703f48982" src="https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/c96f5d56-eb42-48d9-a945-a63adc8c2fa4">
-a-bf15d7133d14">
+<img width="200" alt="255395529-99556095-34e7-4185-aafd-363082a580f6" src="https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/88d3df5d-57e4-4cf7-9159-dcd420aa4b61">
+<img width="200" alt="255395534-a65ff048-555b-4cc6-bace-dcb703f48982" src="https://github.com/sageseid/iOS-Developer-Portfolio/assets/20171941/099e216b-179c-4974-bd70-8153a9951865">
  </p>
+
  
 **Tech Used**
 - 🛠 Combine
