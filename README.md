@@ -220,5 +220,54 @@ Flicks is a mobile or web application designed to provide users with comprehensi
 - 🏛 MVVM
 - 💨 Swift
 
+## Kino Fitness iOS
+[`📲 Available on the App Store`](https://apps.apple.com/us/app/kino-fitness/id6475606094)
+
+Kino Fitness is an A.I fitness trainer that uses your phone to scan your body and provide detailed biometric data, helping you see changes in your fitness journey.
+ 
+**Tech Used**
+- 🛠 Combine
+- 🤖 AI/Computer Vision
+- 🧑‍🎨 SwiftUI
+-📱 Core ML
+- 💨 Swift
+
+## MyTizeti
+[`📲 Available on the App Store`](https://apps.apple.com/ma/app/mytizeti/id6749262763)
+[`📲 Available on the Play Store`](https://play.google.com/store/apps/details?id=com.mytzt.mytizetiapp)
+
+MyTizeti makes it effortless to manage all your internet and Tizeti-related services in one place. It allows users to manage their accounts, track usage, view payment history, and access various customer services from a single mobile app. I built both the iOS and Android versions.
+ 
+**Tech Used**
+- ☕️ Kotlin
+- 💽 Retrofit
+- 💨 Swift
+- 🌰 CocoaPods
+- 📊 Jetpack Compose / UIKit
+
+## Free Fiber
+
+[`📲 Available on the App Store`](https://apps.apple.com/us/app/freefiber/id6739239486)
+[`📲 Available on the Play Store`](https://play.google.com/store/apps/details?id=com.tzt.freefiber_android)
+
+Free Fiber gives users full control of their fiber internet experience, both at home and on the go. It includes account management, usage tracking, payment history, and innovative digital services such as virtual USD cards, doorstep delivery, and an integrated e-commerce store.
+Key Features:
+Account Management
+Usage Tracking
+Payment History
+Virtual USD Cards
+Doorstep Delivery
+Business Verification
+E-commerce Store
+
+
+Tech Used
+☕️ Kotlin
+💽 Retrofit
+💨 Swift
+🌰 CocoaPods
+🧑‍🎨 SwiftUI / Jetpack Compose
+
+
 
 
