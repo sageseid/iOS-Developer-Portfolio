@@ -3,6 +3,22 @@
 ### 👋 Hi! My Name is Noel Obaseki, I'm a self-taught iOS & Android Developer. Here's a little bit of what I've worked on.
 
 
+## MyTizeti
+[`📲 Available on the App Store`](https://apps.apple.com/ma/app/mytizeti/id6749262763)
+[`📲 Available on the Play Store`](https://play.google.com/store/apps/details?id=com.mytzt.mytizetiapp)
+
+MyTizeti makes it effortless to manage all your internet and Tizeti-related services in one place. It allows users to manage their accounts, track usage, view payment history, and access various customer services from a single mobile app. I built both the iOS and Android versions.
+ <img width="700" alt="254634342-2f5a19d6-da6b-413c-b484-98127696a36f" src="https://github.com/user-attachments/assets/77d22eff-f366-40d2-a8d3-2f5b413eafc9">
+
+**Tech Used**
+- ☕️ Kotlin
+- 💽 Retrofit
+- 💨 Swift
+- 🌰 CocoaPods
+- 📊 Jetpack Compose / UIKit
+
+
+
 ## BackDrop
 [`📲 Available on the App Store`](https://apps.apple.com/us/app/backdrop-find-pretty-places/id1548895189)
 
@@ -232,18 +248,7 @@ Kino Fitness is an A.I fitness trainer that uses your phone to scan your body an
 -📱 Core ML
 - 💨 Swift
 
-## MyTizeti
-[`📲 Available on the App Store`](https://apps.apple.com/ma/app/mytizeti/id6749262763)
-[`📲 Available on the Play Store`](https://play.google.com/store/apps/details?id=com.mytzt.mytizetiapp)
 
-MyTizeti makes it effortless to manage all your internet and Tizeti-related services in one place. It allows users to manage their accounts, track usage, view payment history, and access various customer services from a single mobile app. I built both the iOS and Android versions.
- 
-**Tech Used**
-- ☕️ Kotlin
-- 💽 Retrofit
-- 💨 Swift
-- 🌰 CocoaPods
-- 📊 Jetpack Compose / UIKit
 
 ## Free Fiber
 
