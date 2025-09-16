@@ -277,15 +277,24 @@ Payment History
 Virtual USD Cards
 Doorstep Delivery
 Business Verification
-E-commerce Store
+
+<p align="center">
+<img width="200" alt="255395529-99556095-34e7-4185-aafd-363082a580f6" src="https://github.com/user-attachments/assets/881964e4-c82e-4f8a-b1fe-873ba0b1964b">
+<img width="200" alt="255395534-a65ff048-555b-4cc6-bace-dcb703f48982" src="https://github.com/user-attachments/assets/390e90ae-1b26-4b6f-bab6-852abca6e01f" >
+<img width="200" alt="255395534-a65ff048-555b-4cc6-bace-dcb703f48982" src="https://github.com/user-attachments/assets/6843d4b1-06d3-4e4c-a4b3-2dd1d66e129a" >
+<img width="200" alt="255395534-a65ff048-555b-4cc6-bace-dcb703f48982" src="https://github.com/user-attachments/assets/e41df644-cb3a-42fa-8ab6-fd37b456a999" >
+<img width="200" alt="255395534-a65ff048-555b-4cc6-bace-dcb703f48982" src="https://github.com/user-attachments/assets/c51f11b8-764b-4b03-8c11-3e8be1c7acfc" >
+ </p>
 
 
-Tech Used
-☕️ Kotlin
-💽 Retrofit
-💨 Swift
-🌰 CocoaPods
-🧑‍🎨 SwiftUI / Jetpack Compose
+**Tech Used**
+- ☕️ Kotlin
+- 💽 CoreData
+- 🧑‍🎨 SwiftUI
+- 🏛 MVVM
+- 💨 Swift
+
+
 
 
 
