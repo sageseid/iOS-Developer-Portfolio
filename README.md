@@ -8,7 +8,11 @@
 [`📲 Available on the Play Store`](https://play.google.com/store/apps/details?id=com.mytzt.mytizetiapp)
 
 MyTizeti makes it effortless to manage all your internet and Tizeti-related services in one place. It allows users to manage their accounts, track usage, view payment history, and access various customer services from a single mobile app. I built both the iOS and Android versions.
+
+<p align="center">
  <img width="700" alt="254634342-2f5a19d6-da6b-413c-b484-98127696a36f" src="https://github.com/user-attachments/assets/77d22eff-f366-40d2-a8d3-2f5b413eafc9">
+</p>
+
 
 **Tech Used**
 - ☕️ Kotlin
