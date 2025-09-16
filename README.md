@@ -3,6 +3,28 @@
 ### 👋 Hi! My Name is Noel Obaseki, I'm a self-taught iOS & Android Developer. Here's a little bit of what I've worked on.
 
 
+
+## Kino Fitness iOS
+[`📲 Available on the App Store`](https://apps.apple.com/us/app/kino-fitness/id6475606094)
+
+Kino Fitness is an A.I fitness trainer that uses your phone to scan your body and provide detailed biometric data, helping you see changes in your fitness journey.
+
+
+<p align="center">
+ <img width="700" alt="254634342-2f5a19d6-da6b-413c-b484-98127696a36f" src="https://github.com/user-attachments/assets/761cf48c-968c-407b-9daa-8169937e6eaf">
+</p>
+
+ 
+**Tech Used**
+- 🛠 Combine
+- 🤖 AI/Computer Vision
+- 🧑‍🎨 SwiftUI
+-📱 Core ML
+- 💨 Swift
+
+
+
+
 ## MyTizeti
 [`📲 Available on the App Store`](https://apps.apple.com/ma/app/mytizeti/id6749262763)
 [`📲 Available on the Play Store`](https://play.google.com/store/apps/details?id=com.mytzt.mytizetiapp)
@@ -238,18 +260,6 @@ Flicks is a mobile or web application designed to provide users with comprehensi
 - 💽 CoreData
 - 🧑‍🎨 SwiftUI
 - 🏛 MVVM
-- 💨 Swift
-
-## Kino Fitness iOS
-[`📲 Available on the App Store`](https://apps.apple.com/us/app/kino-fitness/id6475606094)
-
-Kino Fitness is an A.I fitness trainer that uses your phone to scan your body and provide detailed biometric data, helping you see changes in your fitness journey.
- 
-**Tech Used**
-- 🛠 Combine
-- 🤖 AI/Computer Vision
-- 🧑‍🎨 SwiftUI
--📱 Core ML
 - 💨 Swift
 
 
